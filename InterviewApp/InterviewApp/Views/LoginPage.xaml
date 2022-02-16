@@ -1,0 +1,21 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="clr-namespace:InterviewApp.ViewModels"
+             x:Class="InterviewApp.Views.LoginPage"
+             mc:Ignorable="d"
+             Shell.NavBarIsVisible="False">
+
+    <ContentPage.BindingContext>
+        <vm:LoginViewModel />
+    </ContentPage.BindingContext>
+
+    <StackLayout Padding="10,0,10,0"
+                 VerticalOptions="Center">
+
+        <Button VerticalOptions="Center"
+                Text="Login"
+                Command="{Binding LoginCommand}" />
+    </StackLayout>
+</ContentPage>

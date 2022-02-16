@@ -1,0 +1,78 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:InterviewApp.ViewModels"
+             x:Class="InterviewApp.Views.AboutPage"
+             Title="{Binding Title}">
+
+    <ContentPage.BindingContext>
+        <vm:AboutViewModel />
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="Accent">#96d1ff</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <StackLayout BackgroundColor="{StaticResource Accent}"
+                     VerticalOptions="FillAndExpand"
+                     HorizontalOptions="Fill">
+
+            <Image Source="xamarin_logo.png"
+                   VerticalOptions="Center"
+                   HeightRequest="64"
+                   Margin="0,40,0,0"
+                   HorizontalOptions="Center" />
+
+            <Label Text="{Binding PlatformString, StringFormat='Your devices is a: {0}'}"
+                   Margin="20,20,20,0"
+                   TextColor="White"
+                   FontSize="16" />
+
+            <Button Margin="0,10,0,0"
+                    Text="Update"
+                    Command="{Binding UpdateCommand}"
+                    BackgroundColor="{StaticResource Primary}" />
+        </StackLayout>
+
+        <ScrollView Grid.Row="1">
+            <StackLayout Orientation="Vertical"
+                         Padding="30,24,30,24"
+                         Spacing="10">
+
+                <Label Text="Start developing now"
+                       FontSize="Title" />
+
+                <Label Text="Make changes to your XAML file and save to see your UI update in the running app with XAML Hot Reload. Give it a try!"
+                       FontSize="16"
+                       Padding="0,0,0,0" />
+
+                <Label FontSize="16"
+                       Padding="0,24,0,0">
+
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <FormattedString.Spans>
+                                <Span Text="Learn more at " />
+
+                                <Span Text="https://aka.ms/xamarin-quickstart"
+                                      FontAttributes="Bold" />
+                            </FormattedString.Spans>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+
+                <Button Margin="0,10,0,0"
+                        Text="Learn more"
+                        Command="{Binding OpenWebCommand}"
+                        BackgroundColor="{StaticResource Primary}" />
+            </StackLayout>
+        </ScrollView>
+    </Grid>
+</ContentPage>
