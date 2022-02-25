@@ -30,7 +30,7 @@
                    Margin="0,40,0,0"
                    HorizontalOptions="Center" />
 
-            <Label Text="{Binding PlatformString, StringFormat='Your devices is a: {0}'}"
+            <Label Text="{Binding PlatformString, StringFormat='Your device is a(n): {0}'}"
                    Margin="20,20,20,0"
                    TextColor="White"
                    FontSize="16" />

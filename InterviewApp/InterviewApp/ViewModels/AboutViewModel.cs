@@ -27,7 +27,9 @@ namespace InterviewApp.ViewModels
 
         private void Update()
         {
-            PlatformString = Platform.GetPlatformSpecificString();
+            // Get our platform-specific service from the dependency service, and
+            // call some platform specific code to fetch a string to bind to the UI
+            PlatformString = PlatformService.GetPlatformSpecificString();
         }
     }
 }

@@ -11,7 +11,7 @@ namespace InterviewApp.ViewModels
     public class BaseViewModel : INotifyPropertyChanged
     {
         public IDataStore<Item> DataStore => DependencyService.Get<IDataStore<Item>>();
-        public IPlatformService Platform  => DependencyService.Get<IPlatformService>();
+        public IPlatformService PlatformService => DependencyService.Get<IPlatformService>();
 
         private bool _isBusy = false;
         public bool IsBusy

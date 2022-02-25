@@ -35,6 +35,9 @@ The app currently has three main features.
 - **About:**
 A simple page that has a button to open Xamarin documentation, and a label to display the device's make and model.
 
+![Screenshot of the About Page on Android](Screenshots/Android.jpg)
+![Screenshot of the About Page on iOS](Screenshots/iOS.jpg)
+
 - **Items:**
 A list of items, each with a title and description. Each item can be opened in it's own detail page, and you can add new items.
 
@@ -60,6 +63,12 @@ You can switch to use this advanced data store by defining the `ADVANCED` compil
 When using this advanced data store, the app will log an error when opening the Items page and will crash when trying to add a new item. You need to debug and solve this issue.
 	
 Please document your work and your thought-process, through commits, comments or just a log in a .txt file.
+
+## Links
+
+- [Xamarin Documentation](https://docs.microsoft.com/en-us/xamarin/)
+- [Installing Xamarin](https://docs.microsoft.com/en-us/xamarin/get-started/installation)
+- [Xamarin.Forms Fundamentals](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/)
 
 ## Contact
 If you need any help or guidance, contact Ashley by emailing him at `ashley.swanson@beier360.com`, or through the recruitment agency.
