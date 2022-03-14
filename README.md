@@ -1,7 +1,7 @@
 # BEIER360 Interview Test
 
 ### Setup
-To complete the test, you will be creating your own private repository from a template.
+To complete the test, you will be creating your own private repository from a template. Please DO NOT use a fork of this repository, as that would allow other candidates to see your solution.
 
 1. View this repository on GitHub, and click "Use this template".
 2. Make sure the "Owner" is set to your **personal GitHub account**.
