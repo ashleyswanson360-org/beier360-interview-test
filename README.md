@@ -1,15 +1,19 @@
 # BEIER360 Interview Test
 
 ### Setup
-To complete the test, you will be creating your own private repository from this template.
+To complete the test, you will be creating your own private repository from a template.
 
-1. On GitHub, view this repository and click "Use this template".
+1. View this repository on GitHub, and click "Use this template".
 2. Make sure the "Owner" is set to your **personal GitHub account**.
 3. Make sure the "Visibility" is set to **Private**.
 4. Give it a name and click "Create repository from template".
-5. Lastly, make sure to go to "Settings > Collaborators > Add people", and add Ashley to your repository to review it.
-    - Username: `ashleyswanson360`
-    - Email: `ashley.swanson@beier360.com`
+
+### Submission
+When you have finished the test, ensure you follow these steps to submit your work.
+
+1. View your private repository on GitHub, and go to "Settings > Collaborators > Add people".
+2. Invite Ashley using his GitHub username `ashleyswanson360` or email `ashley.swanson@beier360.com`.
+2. Reply to the invitation email with a link to your private repository.
 
 ## Project Structure
 The app is a modified version of the default Xamarin.Forms project. The solution consists of five projects.
@@ -71,4 +75,4 @@ Please document your work and your thought-process, through commits, comments or
 - [Xamarin.Forms Fundamentals](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/)
 
 ## Contact
-If you need any help or guidance, contact Ashley by emailing him at `ashley.swanson@beier360.com`, or through the recruitment agency.
+If you need any help or guidance you can contact our Lead Software Developer, Ashley, by emailing him at `ashley.swanson@beier360.com`.
