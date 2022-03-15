@@ -74,5 +74,15 @@ Please document your work and your thought-process, through commits, comments or
 - [Installing Xamarin](https://docs.microsoft.com/en-us/xamarin/get-started/installation)
 - [Xamarin.Forms Fundamentals](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/)
 
+## FAQs
+
+**How long should this test take me?**
+
+First of all, it's important to note that it can take different people varying amounts of time to complete the test. This could be because of your experience level, or just simply having more important things going on in your life. We don't want this to feel like an exam, but hope it's an interesting showcase of some typical tasks you will be undertaking at BEIER360, while also showing us your skill level in the sort of work we do. Please give us any feedback you have if you feel the test is too much.
+
+To answer the question, assuming you spend your whole evenings on the test, we estimate it could take 1 or 2 nights to complete if you already have Xamarin experience. If you don't have experience with Xamarin or C# then it could take you an extra night or 2 to get to grips with it, depending on your experience level. Bare in mind that this is an estimate. As more people complete the test we should be able to improve that based on the real world data.
+
+The important thing is, this _DOES NOT_ mean that you have a hard deadline of 4 days after receiving the invitation. Realistically, working around your schedule, we would expect a response in a week or so.
+
 ## Contact
 If you need any help or guidance you can contact our Lead Software Developer, Ashley, by emailing him at `ashley.swanson@beier360.com`.
