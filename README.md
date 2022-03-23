@@ -1,19 +1,22 @@
 # BEIER360 Interview Test
+## Contents
+- [Setup Guide](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#setup-guide)
+- [Project Structure](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#project-structure)
+- [Tasks](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#tasks)
+  - [Task 1 - Fix](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#tasks)
+  - [Task 2 - Improve](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#tasks)
+  - [Task 3 - Implement](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#tasks)
+  - [Task 4 - Advanced (Optional)](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#tasks)
+- [How to Submit](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#how-to-submit)
+- [Support](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#support)
 
-### Setup
-To complete the test, you will be creating your own private repository from a template. Please DO NOT use a fork of this repository, as that would allow other candidates to see your solution.
+## Setup Guide
+To complete the test, you will be creating your own private repository from a template.
 
 1. View this repository on GitHub, and click "Use this template".
 2. Make sure the "Owner" is set to your **personal GitHub account**.
 3. Make sure the "Visibility" is set to **Private**.
 4. Give it a name and click "Create repository from template".
-
-### Submission
-When you have finished the test, ensure you follow these steps to submit your work.
-
-1. View your private repository on GitHub, and go to "Settings > Collaborators > Add people".
-2. Invite Ashley using his GitHub username `ashleyswanson360` or email `ashley.swanson@beier360.com`.
-2. Reply to the invitation email with a link to your private repository.
 
 ## Project Structure
 The app is a modified version of the default Xamarin.Forms project. The solution consists of five projects.
@@ -68,13 +71,21 @@ When using this advanced data store, the app will log an error when opening the 
 	
 Please document your work and your thought-process, through commits, comments or just a log in a .txt file.
 
-## Links
+## How to Submit
+When you have finished all of the tasks, ensure you follow these steps to submit your work.
+
+1. View your private repository on GitHub, and go to "Settings > Collaborators > Add people".
+2. Invite Ashley using his GitHub username `ashleyswanson360` or email `ashley.swanson@beier360.com`.
+2. Reply to the invitation email with a link to your private repository.
+
+## Support
+### Links
 
 - [Xamarin Documentation](https://docs.microsoft.com/en-us/xamarin/)
 - [Installing Xamarin](https://docs.microsoft.com/en-us/xamarin/get-started/installation)
 - [Xamarin.Forms Fundamentals](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/)
 
-## FAQs
+### FAQs
 
 **How long should this test take me?**
 
@@ -84,5 +95,5 @@ To answer the question, assuming you spend your whole evenings on the test, we e
 
 The important thing is, this _DOES NOT_ mean that you have a hard deadline of 4 days after receiving the invitation. Realistically, working around your schedule, we would expect a response in a week or so.
 
-## Contact
+### Contact
 If you need any help or guidance you can contact our Lead Software Developer, Ashley, by emailing him at `ashley.swanson@beier360.com`.
