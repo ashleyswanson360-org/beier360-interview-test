@@ -1,14 +1,14 @@
 # BEIER360 Interview Test
 ## Contents
-- [Setup Guide](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#setup-guide)
-- [Project Structure](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#project-structure)
-- [Tasks](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#tasks)
-  - [Task 1 - Fix](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#tasks)
-  - [Task 2 - Improve](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#tasks)
-  - [Task 3 - Implement](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#tasks)
-  - [Task 4 - Advanced (Optional)](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#tasks)
-- [How to Submit](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#how-to-submit)
-- [Support](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#support)
+- [Setup Guide](https://github.com/kaile2012/interview-test/blob/main/README.md#setup-guide)
+- [Project Structure](https://github.com/kaile2012/interview-test/blob/main/README.md#project-structure)
+- [Tasks](https://github.com/kaile2012/interview-test/blob/main/README.md#tasks)
+  - [Task 1 - Fix](https://github.com/kaile2012/interview-test/blob/main/README.md#tasks)
+  - [Task 2 - Improve](https://github.com/kaile2012/interview-test/blob/main/README.md#tasks)
+  - [Task 3 - Implement](https://github.com/kaile2012/interview-test/blob/main/README.md#tasks)
+  - [Task 4 - Advanced (Optional)](https://github.com/kaile2012/interview-test/blob/main/README.md#tasks)
+- [How to Submit](https://github.com/kaile2012/interview-test/blob/main/README.md#how-to-submit)
+- [Support](https://github.com/kaile2012/interview-test/blob/main/README.md#support)
 
 ## Setup Guide
 To complete the test, you will be creating your own private repository from a template.
@@ -17,6 +17,7 @@ To complete the test, you will be creating your own private repository from a te
 2. Make sure the "Owner" is set to your **personal GitHub account**.
 3. Make sure the "Visibility" is set to **Private**.
 4. Give it a name and click "Create repository from template".
+5. Now you can clone your new repository to your computer and get started.
 
 ## Project Structure
 The app is a modified version of the default Xamarin.Forms project. The solution consists of five projects.
@@ -94,6 +95,12 @@ First of all, it's important to note that it can take different people varying a
 To answer the question, assuming you spend your whole evenings on the test, we estimate it could take 1 or 2 nights to complete if you already have Xamarin experience. If you don't have experience with Xamarin or C# then it could take you an extra night or 2 to get to grips with it, depending on your experience level. Bare in mind that this is an estimate. As more people complete the test we should be able to improve that based on the real world data.
 
 The important thing is, this _DOES NOT_ mean that you have a hard deadline of 4 days after receiving the invitation. Realistically, working around your schedule, we would expect a response in a week or so.
+
+**What am I currently looking at...**
+
+If you are new to GitHub, it is a source control provider built on Git. It stores a bunch of code and tracks the changes made to it, and allows us to revert to older versions, as well as providing features that make it much easier for many developers to work on the same lines of code without things getting too messy. You can think of GitHub as a file hosting service, like OneDrive or Dropbox, built specifically for code files. We would encourage you to look into source control and some providers of source control if you have not used it before.
+
+This [code repository](https://docs.github.com/en/repositories) is the basis of the test, and is only used as a template. To work on the test you should follow the [Setup Guide](https://github.com/kaile2012/interview-test/blob/main/README.md#setup-guide) to create your own repository to clone and commit to. To clone your repository to your computer you can look into the [GitHub Desktop](https://desktop.github.com/) application, or you can use the built-in git features of Visual Studio.
 
 ### Contact
 If you need any help or guidance you can contact our Lead Software Developer, Ashley, by emailing him at `ashley.swanson@beier360.com`.
