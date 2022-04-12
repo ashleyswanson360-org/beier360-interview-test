@@ -13,7 +13,7 @@
 ## Setup Guide
 To complete the test, you will be creating your own private repository from a template.
 
-1. View this repository on GitHub, and click "Use this template".
+1. View this repository on GitHub, and click "Use this template". If you can't see this option, make sure you are signed in to GitHub.
 2. Make sure the "Owner" is set to your **personal GitHub account**.
 3. Make sure the "Visibility" is set to **Private**.
 4. Give it a name and click "Create repository from template".
