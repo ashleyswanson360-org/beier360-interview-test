@@ -1,14 +1,14 @@
 # BEIER360 Interview Test
 ## Contents
-- [Setup Guide](https://github.com/kaile2012/interview-test/blob/main/README.md#setup-guide)
-- [Project Structure](https://github.com/kaile2012/interview-test/blob/main/README.md#project-structure)
-- [Tasks](https://github.com/kaile2012/interview-test/blob/main/README.md#tasks)
-  - [Task 1 - Fix](https://github.com/kaile2012/interview-test/blob/main/README.md#tasks)
-  - [Task 2 - Improve](https://github.com/kaile2012/interview-test/blob/main/README.md#tasks)
-  - [Task 3 - Implement](https://github.com/kaile2012/interview-test/blob/main/README.md#tasks)
-  - [Task 4 - Advanced (Optional)](https://github.com/kaile2012/interview-test/blob/main/README.md#tasks)
-- [How to Submit](https://github.com/kaile2012/interview-test/blob/main/README.md#how-to-submit)
-- [Support](https://github.com/kaile2012/interview-test/blob/main/README.md#support)
+- [Setup Guide](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#setup-guide)
+- [Project Structure](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#project-structure)
+- [Tasks](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#tasks)
+  - [Task 1 - Fix](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#tasks)
+  - [Task 2 - Improve](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#tasks)
+  - [Task 3 - Implement](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#tasks)
+  - [Task 4 - Advanced (Optional)](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#tasks)
+- [How to Submit](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#how-to-submit)
+- [Support](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#support)
 
 ## Setup Guide
 To complete the test, you will be creating your own private repository from a template.
@@ -100,7 +100,7 @@ The important thing is, this _DOES NOT_ mean that you have a hard deadline of 4 
 
 If you are new to GitHub, it is a source control provider built on Git. It stores a bunch of code and tracks the changes made to it, and allows us to revert to older versions, as well as providing features that make it much easier for many developers to work on the same lines of code without things getting too messy. You can think of GitHub as a file hosting service, like OneDrive or Dropbox, built specifically for code files. We would encourage you to look into source control and some providers of source control if you have not used it before.
 
-This [code repository](https://docs.github.com/en/repositories) is the basis of the test, and is only used as a template. To work on the test you should follow the [Setup Guide](https://github.com/kaile2012/interview-test/blob/main/README.md#setup-guide) to create your own repository to clone and commit to. To clone your repository to your computer you can look into the [GitHub Desktop](https://desktop.github.com/) application, or you can use the built-in git features of Visual Studio.
+This [code repository](https://docs.github.com/en/repositories) is the basis of the test, and is only used as a template. To work on the test you should follow the [Setup Guide](https://github.com/ashleyswanson360-org/beier360-interview-test/blob/main/README.md#setup-guide) to create your own repository to clone and commit to. To clone your repository to your computer you can look into the [GitHub Desktop](https://desktop.github.com/) application, or you can use the built-in git features of Visual Studio.
 
 ### Contact
 If you need any help or guidance you can contact our Lead Software Developer, Ashley, by emailing him at `ashley.swanson@beier360.com`.
